@@ -1,8 +1,4 @@
 # 🌾Crop Yield Prediction using Machine Learning 
-🖼
-![crop prediction image 1st page](project1.PNG)
-![crop prediction image 1st page](project2.PNG)
-![crop prediction image 1st page](project3.PNG)
 
 ## Overview
 
@@ -14,6 +10,14 @@ The project consists of four main components:
 - Model Training, 
 - Prediction Pipeline.
   
+## Project Snapshots 
+🖼
+                                                **Page 1**
+![crop prediction image 1st page](project1.PNG)
+                                                **Page 2**
+![crop prediction image 1st page](project2.PNG)
+                                                **Page 3**
+![crop prediction image 1st page](project3.PNG)
 
 ## Project Structure
 
@@ -44,7 +48,7 @@ pip install -r requirements.txt
 
 
 ## Pipeline Overview
-The project pipeline consists of the following stages:
+The project pipeline(Structured Sequence) consists of the following stages:
 
 **Data Ingestion:** Connect to MongoDB and retrieve the dataset.<br>
 
