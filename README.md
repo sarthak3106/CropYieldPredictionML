@@ -12,11 +12,11 @@ The project consists of four main components:
   
 ## Project Snapshots 
 🖼
-                                                **Page 1**
+**Page 1**
 ![crop prediction image 1st page](project1.PNG)
-                                                **Page 2**
+**Page 2**
 ![crop prediction image 1st page](project2.PNG)
-                                                **Page 3**
+**Page 3**
 ![crop prediction image 1st page](project3.PNG)
 
 ## Project Structure
