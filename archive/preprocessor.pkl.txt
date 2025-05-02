@@ -1,0 +1,15 @@
+import pickle
+import os
+
+# Suppose preprocessor is already created
+# preprocessor = your_preprocessor_object
+
+save_path = os.path.join('dataset', 'preprocessor.pkl')
+
+# Create the folder if it doesn't exist
+os.makedirs('dataset', exist_ok=True)
+
+with open(save_path, 'wb') as f:
+    pickle.dump(preprocessor, f)
+
+print(f"Preprocessor saved successfully at {save_path}")
