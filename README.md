@@ -14,10 +14,14 @@ The project consists of four main components:
 🖼
 **Page 1**
 ![crop prediction image 1st page](project1.PNG)
+
+🖼
 **Page 2**
-![crop prediction image 1st page](project2.PNG)
+![crop prediction image 2nd page](project2.PNG)
+
+🖼
 **Page 3**
-![crop prediction image 1st page](project3.PNG)
+![crop prediction image 3rd page](project3.PNG)
 
 ## Project Structure
 
