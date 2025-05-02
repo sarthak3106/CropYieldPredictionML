@@ -1,6 +1,6 @@
 # 🌾Crop Yield Prediction using Machine Learning 
 🖼
-![crop prediction image](https://github.com/Tinu01kumar/Crop_prediction_ml_pipeline/blob/main/templates/Screenshot%20(270).png)
+![crop prediction image](project2.PNG)
 
 ## Overview
 
@@ -101,17 +101,10 @@ The **prediction_pipeline** folder contains the following components:<br>
 
 **CustomData Class:** This class takes input features and converts them into a DataFrame suitable for prediction.<br>
 
-
-## Deployment
-The project has been deployed on an AWS EC2 instance and is accessible via the following link:
-
-
-**[http://ec2-52-70-34-66.compute-1.amazonaws.com:8050/predict](http://ec2-52-70-34-66.compute-1.amazonaws.com:8050/predict)**
-
 ## Usage
 To run the prediction web application locally, execute:
 **python app.py**
-Visit **[http://localhost:5000](http://127.0.0.1:5000/)** in your web browser to use the application.
+Visit **[http://127.0.0.1:5000](http://127.0.0.1:5000/)** in your web browser to use the application.
 
 ## Dataset
 The dataset used in this project is taken from Kaggle and can be found here.
